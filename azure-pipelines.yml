@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'SelfHostedPoolFMB'
+  name: 'SelfHostedPoolFMB'    
   
 variables:
   solution: '**/*.sln'
